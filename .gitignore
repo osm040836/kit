@@ -1,0 +1,7 @@
+# 로컬 로그와 설정
+logs/
+local/
+.env
+.env.*
+!.env.example
+*.log
