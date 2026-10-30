@@ -39,3 +39,7 @@
 - [systematic-debugging](https://github.com/obra/superpowers/blob/main/skills/systematic-debugging/SKILL.md)
 
 토큰 절감이나 성능 향상을 보장하지 않습니다. 필요한 정보의 반복 출력과 근거 없는 수정을 줄이는 것이 목적입니다.
+
+## 라이선스
+
+MIT License. `LICENSE` 파일을 참고하세요.
